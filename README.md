@@ -1,4 +1,4 @@
-# MAE6292 Midterm Exam
+# MAE6292 Final Exam
 
 ### Exam Schedule
 
